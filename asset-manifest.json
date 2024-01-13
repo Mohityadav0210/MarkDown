@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarkDown/static/css/main.70806466.css",
+    "main.js": "/MarkDown/static/js/main.3c2a3f5a.js",
+    "index.html": "/MarkDown/index.html",
+    "main.70806466.css.map": "/MarkDown/static/css/main.70806466.css.map",
+    "main.3c2a3f5a.js.map": "/MarkDown/static/js/main.3c2a3f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70806466.css",
+    "static/js/main.3c2a3f5a.js"
+  ]
+}
